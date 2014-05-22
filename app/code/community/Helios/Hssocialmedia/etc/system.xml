@@ -3,7 +3,7 @@
     <tabs>
         <hssocialmedia translate="label" module="hssocialmedia">
             <label>HS Social Media Plugin</label>
-            <sort_order>0</sort_order>
+            <sort_order>100</sort_order>
         </hssocialmedia>
     </tabs>
     <sections>
